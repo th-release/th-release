@@ -1,4 +1,7 @@
-### Hi there 👋
+<div style="color: white;background-color: black;text-align: center;">
+  <p style="font-size: 35px">th-release.cth</p>
+</div>
+
 
 <!--
 **th-release/th-release** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
