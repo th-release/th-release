@@ -6,5 +6,5 @@
   Backend Developer & Frontend Developer<br/>
   <a href="mailto:th.release.cth@gmail.com">email</a> •
   <a href="th-release.kro.kr" rel="nofollow">site</a> •
-  <a href="https://www.instagram.com/th_release.cth>instagram</a>
+  <a href="https://www.instagram.com/th_release.cth">instagram</a>
 </div>
