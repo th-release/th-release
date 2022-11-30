@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm th.release.cth</h1>
-<h3 align="center">a passionate developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th-release&label=Profile%20views&color=000000&style=flat" alt="th-release" /> </p>
 
