@@ -16,4 +16,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th-release&show_icons=true&locale=en&layout=compact" alt="th-release" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th-release&show_icons=true&locale=en" alt="th-release" /></p>
+![캡처](https://user-images.githubusercontent.com/84012697/205087483-019e811c-4593-4c82-9b77-2ec65c3c9992.PNG)
+
+
 
