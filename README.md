@@ -16,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th-release&show_icons=true&locale=en&layout=compact" alt="th-release" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th-release&show_icons=true&locale=en" alt="th-release" /></p>
-
