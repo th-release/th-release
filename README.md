@@ -7,7 +7,7 @@
 <p align="left">
   <ul>
     <li>
-      Email: <a href="mailto: th.release.cth@gmail.com">**th.release.cth@gmail.com**</a>
+      Email: <a href="mailto: th.release.cth@gmail.com"><b>th.release.cth@gmail.com</b></a>
     </li>
   </ul>
 </p>
