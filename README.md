@@ -9,6 +9,9 @@
     <li>
       Email: <a href="mailto: th.release.cth@gmail.com"><b>th.release.cth@gmail.com</b></a>
     </li>
+    <li>
+      Instagram: <a href="https://instagram.com/th.release.cth"><b>th.release.cth</b></a>
+    </li>
   </ul>
 </p>
 
