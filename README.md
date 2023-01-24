@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm th.release.cth</h1>
-<h3 align="center">A passionate developer</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:fff&height=300&section=header&text=th.release.cth&fontSize=90&fontColor=000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +11,4 @@
     </li>
   </ul>
 </p>
+
