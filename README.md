@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:fff&height=300&section=header&text=th.release.cth&fontSize=90&fontColor=000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:fff&height=300&section=header&text=th.release.cth&fontSize=90&fontColor=fff)
 <hr/>
 <h3 align="left">Main</h3>
 <div align="left">
