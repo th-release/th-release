@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=fff"/> 
 </div>
 
+<h3 align="left">Education / School</h3>
+<p align="left">
+  <ul>
+    <li>GBSW(Gyeongbuk Software High School) 1st (2021.3 ~ )</li>
+  </ul>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <ul>
