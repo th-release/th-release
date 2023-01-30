@@ -12,6 +12,7 @@
 <p align="left">
   <ul>
     <li>GBSW(Gyeongbuk Software High School) 1st (2021.3 ~ )</li>
+    <li>CyberGuardians (2021. 4 ~ 2022. 2)</li>
   </ul>
 </p>
 
