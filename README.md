@@ -20,7 +20,7 @@
 <p align="left">
   <ul>
     <li>
-      Email: <a href="mailto: th.release.cth@gmail.com"><b>cth.release@gmail.com</b></a>
+      Email: <a href="mailto: cth.release@gmail.com"><b>cth.release@gmail.com</b></a>
     </li>
     <li>
       Instagram: <a href="https://www.instagram.com/th.release.cth"><b>th.release.cth</b></a>
