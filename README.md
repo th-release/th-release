@@ -23,7 +23,7 @@
       Email: <a href="mailto: cth.release@gmail.com"><b>cth.release@gmail.com</b></a>
     </li>
     <li>
-      Instagram: <a href="https://www.instagram.com/th.release.cth"><b>th.release.cth</b></a>
+      Instagram: <a href="https://www.instagram.com/cth.release"><b>cth.release</b></a>
     </li>
   </ul>
 </p>
