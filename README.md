@@ -35,6 +35,12 @@
   </ul>
 </p>
 
+<h3 align="left">Awards / take on a challenge</h3>
+<p align="left">
+  <ul>
+    <li>2023 IT 코딩 발명아이디어 경진대회 (장애인을 위한 IT 코딩 발명품 아이디어) (동상)</li>
+  </ul>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <ul>
