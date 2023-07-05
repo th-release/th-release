@@ -2,10 +2,29 @@
 <hr/>
 <h3 align="left">Main</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=fff"/> 
+  <ul>
+    <li>
+      <ul>
+        Backend
+        <li>Nest.js</li>
+        <li>Express.js</li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        Frontend
+        <li>React</li>
+        <li>Next.js</li>
+        <li>HTML, CSS, JS</li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        Hybrid-App Development
+        <li>ionic framework</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 <h3 align="left">Education / School</h3>
