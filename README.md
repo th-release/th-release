@@ -4,23 +4,23 @@
 <div align="left">
   <ul>
     <li>
+      <h3>Backend</h3>
       <ul>
-        Backend
         <li>Nest.js</li>
         <li>Express.js</li>
       </ul>
     </li>
     <li>
+      <h3>Frontend</h3>
       <ul>
-        Frontend
         <li>React</li>
         <li>Next.js</li>
         <li>HTML, CSS, JS</li>
       </ul>
     </li>
     <li>
+      <h3>Hybrid-App Development</h3>
       <ul>
-        Hybrid-App Development
         <li>ionic framework</li>
       </ul>
     </li>
