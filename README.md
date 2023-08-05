@@ -21,7 +21,8 @@
       <li>
         <h3>Hybrid-App Development</h3>
         <ul>
-          <li>ionic framework</li>
+          <li>ionic framework (React)</li>
+          <li>flutter (learning ...)</li>
         </ul>
       </li>
     </ul>
