@@ -8,7 +8,7 @@
         <ul>
           <li>Nest.js</li>
           <li>Express.js</li>
-          <li>Spring Boot</li>
+          <li>Java Spring Boot</li>
         </ul>
       </li>
       <li>
