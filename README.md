@@ -20,7 +20,7 @@
         </ul>
       </li>
       <li>
-        <h3>Hybrid-App Development</h3>
+        <h3>HApp Development</h3>
         <ul>
           <li>ionic framework (React)</li>
           <li>flutter (learning ...)</li>
