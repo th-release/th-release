@@ -9,6 +9,7 @@
           <li>Nest.js</li>
           <li>Express.js</li>
           <li>Java Spring Boot</li>
+          <li>Go</li>
         </ul>
       </li>
       <li>
