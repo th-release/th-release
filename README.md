@@ -21,11 +21,11 @@
         </ul>
       </li>
       <li>
-        <h3>Solidity</h3>
+        <h3>Blockchain</h3>
         <ul>
-          <li>ERC-20</li>
-          <li>ERC-721</li>
-          <li>ERC-1155</li>
+          <li>Solidity</li>
+          <li>Fabric ChainCode</li>
+          <li>Cosmos App Chain</li>
         </ul>
       </li>
       <li>
