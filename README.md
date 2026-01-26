@@ -28,13 +28,6 @@
           <li>Cosmos App Chain</li>
         </ul>
       </li>
-      <li>
-        <h3>HApp Development</h3>
-        <ul>
-          <li>ionic framework (React)</li>
-          <li>flutter (learning ...)</li>
-        </ul>
-      </li>
     </ul>
   </div>
   
